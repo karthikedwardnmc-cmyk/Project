@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Mini Port Scanner",
+  "description": "A browser-based TCP port scanner simulator using fetch API with a cyber-security aesthetic.",
+  "requestFramePermissions": []
+}
